@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="../../tileset_gutter.tsx"/>
+ <layer id="3" name="graphic" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt100OgjAQhuGW67j1Im7wFno6DwLXYIcLt6ZR0rF2+sfw0/A9ycRGqLrwFVQKAAAAAAC2ctH/AwB1oM2iX4C6uL2iXwAAAAi5aTt33DcAJBu2/gCMNVp+6M/AMXXaTl/592BvHUv0e5q5f+2+20apa2MfzRzFS//O0kyz43c6z9TS88Cs92puk1so7TF337mx4z6fQ7ol9/V8456/NNPtU9v16PTcMw3vuW2uZal7WYn/uVO/KR2Hzim5rraelmhjXGe+fXPekxPrlPbtOzfWa0qHsTYlXo8b33WUG9ovlbrPbJWYXIOybdJ1SKi30mPSaKtc47Fm3eOljXPNTce434HQ3gntjluHlLaWsleq61LudTQ2vn5T97wBIVi2mQ==
+  </data>
+ </layer>
+ <layer id="2" name="background" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20KP6AAAAAAAAAAAAAAAAC+BjDAAAE=
+  </data>
+ </layer>
+</map>
